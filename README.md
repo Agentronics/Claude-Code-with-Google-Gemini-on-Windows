@@ -1,8 +1,7 @@
-# Claude-Code-with-Google-Gemini-on-Windows-WSL2
-
+# Free-setup:Claude Code with Google-Gemini on Windows (WSL2)
+---
 This repository provides a step-by-step guide to setting up Claude Code on Windows using WSL2, powered by Google Gemini via the Claude Code Router.
 ---
-
 ## 🛠 Step 0: Install Windows Subsystem for Linux (WSL)
 
 **Important:** This is the first thing you need to do. We are setting up a Linux environment where **Claude Code** will run.
